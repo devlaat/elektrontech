@@ -14,7 +14,7 @@ export function Footer() {
             © {new Date().getFullYear()} <strong>ELEKTRON TECH</strong>.  
             Todos los derechos reservados.
           </p>
-          <p className="mt-1"by: devLAAT 💻🚀</p>
+          <p className="mt-1"devLAAT 💻🚀</p>
         </div>
 
       </div>
